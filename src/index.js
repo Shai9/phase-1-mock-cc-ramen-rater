@@ -1,4 +1,4 @@
-// write your code here
+// write your code here //
 
 let menu = document.getElementById('ramen-menu')
 let ramenImage = document.getElementById('img')
